@@ -1,0 +1,10 @@
+.project {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10%;
+}
+
+.project-container > canvas {
+  margin: 10px;
+}
